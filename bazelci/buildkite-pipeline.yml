@@ -135,4 +135,4 @@ platforms:
       - "//ui/espresso/BasicSample:BasicSample"
       - "//ui/espresso/AccessibilitySample:BasicSampleTest"
       - "//ui/espresso/AccessibilitySample:BasicSample"
-
+echo "hello world"
